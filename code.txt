@@ -3,5 +3,3 @@ This is a code.
 This line of code was edited in Windows text editor.
 
 This line of code was edited in VSCode.
-
-This line was also edited in VSCode.
